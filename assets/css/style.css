@@ -5,30 +5,7 @@
 }
 
 
-.box{
-    border: 2px solid #808080;
-    height: auto;
-    width: calc(25% - 4px - 13px);
-    padding: 5px;
-    display: inline-block;
-}
 
-.Text__main{
-        margin-top: 10%;
-}
-
-.box p {
-    text-align:center;
-    }
-
-
-.navbar{
-position: absolute;
-background-color: green;
-width: 100%;
-top: 0%;
-
-}
 
 
 /*BANDERAS !!!*/
@@ -113,7 +90,7 @@ top: 0%;
     height: 220px;
     width: 20%;
     position: relative;
-    z-index: 1;
+    
 }
 
 .em2{
@@ -132,7 +109,7 @@ top: 0%;
     position: absolute;
     bottom: 0%;
     left: 100%;
-    z-index: 3;
+   
 }
 
 
